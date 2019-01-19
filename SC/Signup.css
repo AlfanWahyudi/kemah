@@ -90,6 +90,7 @@ body {
     background-color: #000000;
     opacity: 0.5;
     border: none;
+    pointer : cursor;
     color: whitesmoke;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
@@ -106,34 +107,6 @@ body {
   color: whitesmoke;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
-}
-
-.name {
-position: absolute;
-left : 535px;
-top : 30px;
-opacity: 0.6;
-}
-
-.email {
-  position: absolute;
-  left : 535px;
-  top : 75px;
-  opacity: 0.6;
-  }
-
-.phone {
-    position: absolute;
-    left : 535px;
-    top : 120px;
-    opacity: 0.6;
-}
-
-.password {
-    position: absolute;
-    left : 535px;
-    top : 162px;
-    opacity: 0.6;
 }
 
 .signin {
