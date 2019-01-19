@@ -89,6 +89,10 @@ body {
   color: #03A9F4;
 }
 
+.link:hover{
+  color: #03A9F4;
+}
+
 .button {
     width: 250px;
     height: 40px;
